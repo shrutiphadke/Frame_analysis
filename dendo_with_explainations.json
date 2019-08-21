@@ -1,0 +1,47 @@
+{
+ "name": "Frames",
+ "children" :[
+  {
+   "name": "Problem",
+   "children": [
+     {"name": "Race", "value": 1},
+     {"name": "Nationality", "value": 1},
+     {"name": "Immigration", "value": 1},
+     {"name": "Sexual Orientation", "value": 1},
+     {"name": "Religion", "value": 1},
+     {"name": "Political Views", "value": 1},
+     {"name": "Gender Identity", "value": 1},
+     {"name": "Organizations", "value": 1},
+     {"name": "Other", "value": 1}
+   ]
+  },
+  {
+  "name": "Diagnostic",
+  "children": [
+    {"name": "Oppression : Oppression by out-group", "value": 1},
+    {"name": "Inferiority: Inferiority of out-group", "value": 1},
+    {"name": "Immorality: Immorality of out-group", "value": 1},
+    {"name": "Failure: Failure of in-group", "value": 1}
+   ]
+  },
+  {
+  "name": "Solution",
+  "children": [
+    {"name": "Hatred : Spreading hatred", "value": 1},
+    {"name": "Discrimination: Call to discriminate", "value": 1},
+    {"name": "Violence: Call for violence", "value": 1},
+    {"name": "Policy: Change in policy", "value": 1},
+    {"name": "Membership: Call for membership", "value": 1}
+   ]
+  },
+  {
+  "name": "Motivation",
+  "children": [
+    {"name": "Moral Propriety: Moral responsibility of in-group", "value": 1},
+    {"name": "Status Enhancement: Increase in status by following the solution", "value": 1},
+    {"name": "Fear: Fear appeal", "value": 1},
+    {"name": "Efficacy: Efficiency of the solution", "value": 1}
+   ]
+  }
+ ]
+}
