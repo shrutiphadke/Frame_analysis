@@ -1,0 +1,14 @@
+{
+ "name": "Problem",
+ "children": [
+   {"name": "Race", "value": 1},
+   {"name": "Nationality", "value": 1},
+   {"name": "Immigration", "value": 1},
+   {"name": "Sexual Orientation", "value": 1},
+   {"name": "Religion", "value": 1},
+   {"name": "Political Views", "value": 1},
+   {"name": "Gender Indentity", "value": 1},
+   {"name": "Organizations", "value": 1},
+   {"name": "Other", "value": 1}
+ ]
+}
