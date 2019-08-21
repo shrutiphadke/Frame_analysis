@@ -1,0 +1,47 @@
+{
+ "name": "Frames",
+ "children" :[
+  {
+   "name": "Problem",
+   "children": [
+     {"name": "Race", "value": 1},
+     {"name": "Nationality", "value": 1},
+     {"name": "Immigration", "value": 1},
+     {"name": "Sexual Orientation", "value": 1},
+     {"name": "Religion", "value": 1},
+     {"name": "Political Views", "value": 1},
+     {"name": "Gender Identity", "value": 1},
+     {"name": "Organizations", "value": 1},
+     {"name": "Other", "value": 1}
+   ]
+  },
+  {
+  "name": "Diagnostic",
+  "children": [
+    {"name": "Oppression", "value": 1},
+    {"name": "Inferiority", "value": 1},
+    {"name": "Immorality", "value": 1},
+    {"name": "Failure", "value": 1}
+   ]
+  },
+  {
+  "name": "Solution",
+  "children": [
+    {"name": "Hatred", "value": 1},
+    {"name": "Discrimination", "value": 1},
+    {"name": "Violence", "value": 1},
+    {"name": "Policy", "value": 1},
+    {"name": "Membership", "value": 1}
+   ]
+  },
+  {
+  "name": "Motivation",
+  "children": [
+    {"name": "Moral Propriety", "value": 1},
+    {"name": "Status Enhacement", "value": 1},
+    {"name": "Fear", "value": 1},
+    {"name": "Efficacy", "value": 1}
+   ]
+  }
+ ]
+}
